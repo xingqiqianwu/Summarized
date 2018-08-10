@@ -17,9 +17,11 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 
 /**
+ * 不建议使用，内存占用极其严重
  * @author chenjing03
  * Created on 2018-08-09
  */
+@Deprecated
 public class ExcelUtil {
     public enum ExcelFileType{
         XLS,
