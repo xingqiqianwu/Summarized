@@ -10,8 +10,7 @@
   <packaging>war</packaging>
 
   <name>summarized Maven Webapp</name>
-  <!-- FIXME change it to the project's website master -->
-  <url>http://www.example.com</url>
+
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
